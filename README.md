@@ -9,6 +9,12 @@ TOS Improvement Proposals (TIPs) describe standards for the TOS network, includi
 3. Add your TIP to the `TIPS/` folder following the sample format.
 4. Submit a Pull Request.
 
+## Proposals
+
+| TIP | Title | Status | Type |
+|---|---|---|---|
+| [1](TIPS/tip-1.md) | TOS DNS and the `.tos` Namespace | Draft | Standards Track / Interface |
+
 ## TIP Status Terms
 
 - **Draft** - A TIP that is open for consideration.
