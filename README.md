@@ -14,6 +14,7 @@ TOS Improvement Proposals (TIPs) describe standards for the TOS network, includi
 | TIP | Title | Status | Type |
 |---|---|---|---|
 | [1](TIPS/tip-1.md) | TOS DNS and the `.tos` Namespace | Draft | Standards Track / Interface |
+| [0002](TIPS/tip-0002.md) | Post-Quantum Validator Signatures and Cryptographic Agility | Draft | Standards Track / Core |
 
 ## TIP Status Terms
 
