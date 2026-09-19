@@ -1,5 +1,5 @@
 ---
-tip: 3
+tip: 2
 title: Protocol-Native Stable Assets and Circle USDC Interoperability
 author: TOS Core Contributors (@tosnetwork)
 status: Draft
@@ -8,7 +8,7 @@ category: Core
 created: 2026-09-15
 ---
 
-# TIP-0003: Protocol-Native Stable Assets and Circle USDC Interoperability
+# TIP-2: Protocol-Native Stable Assets and Circle USDC Interoperability
 
 ## Abstract
 
@@ -849,7 +849,7 @@ validators support it.
 ## Test Cases
 
 The implementation MUST include at least the following conformance classes.
-Exact byte vectors belong under `assets/tip-0003/` when wire encodings are
+Exact byte vectors belong under `assets/tip-2/` when wire encodings are
 frozen.
 
 ### 30. Registry
