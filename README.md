@@ -8,12 +8,17 @@ TOS Improvement Proposals (TIPs) describe standards for the TOS network, includi
 2. Fork the repository.
 3. Add your TIP to the `TIPS/` folder following the sample format.
 4. Submit a Pull Request.
+5. Renumber the TIP to match its Pull Request number. A TIP number equals the
+   number of the Pull Request that introduces it, so the number is assigned
+   once the PR exists: update the `tip:` metadata, the heading, the file name
+   `TIPS/tip-<n>.md`, and any `assets/tip-<n>/` path.
 
 ## Proposals
 
 | TIP | Title | Status | Type |
 |---|---|---|---|
 | [1](TIPS/tip-1.md) | TOS DNS and the `.tos` Namespace | Draft | Standards Track / Interface |
+| [2](TIPS/tip-2.md) | Protocol-Native Stable Assets and Circle USDC Interoperability | Draft | Standards Track / Core |
 
 ## TIP Status Terms
 
